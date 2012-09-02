@@ -1,4 +1,4 @@
-Blinnking LEDs
+LED Experiments
 ===============
 
 This is a collection of Python scripts that make LEDs do stuff (mostly blink)
