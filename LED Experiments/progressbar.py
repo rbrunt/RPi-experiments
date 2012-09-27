@@ -59,7 +59,7 @@ time.sleep(0.5)
 print "turn on 2 LEDs"
 displayprogress(2)
 time.sleep(1)
-dislayprogress(0)
+displayprogress(0)
 time.sleep(0.5)
 print "turn on 3 LEDs"
 displayprogress(3)
