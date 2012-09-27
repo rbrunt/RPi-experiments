@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import RPi.GPIO as GPIO
 # Time is required for the blinking:
 import time
