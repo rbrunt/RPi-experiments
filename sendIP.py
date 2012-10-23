@@ -9,7 +9,7 @@ import smtplib
 ipinfo = subprocess.check_output("ifconfig", shell=True)
 
 # Setup the Message details:
-fromaddr = 'notifications@blue-shift.net'
+fromaddr = 'notifications@example.com'
 # For multiple addresses, add more to the list. For one address, a string will suffice.
 toaddrs  = ['john.smith@example.com']
 
