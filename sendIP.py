@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 ###################################################################################
 # To make this run at startup, add "/path/to/script/sendIP.py &" to /etc/rc.local #
 #       Make sure that you change your email address and SMTP details below!      #
